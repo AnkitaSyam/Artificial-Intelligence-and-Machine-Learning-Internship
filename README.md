@@ -1,6 +1,6 @@
 ## Movie Recommendation System
 
-This repository contains the `MovieRecommendation.ipynb` notebook, which is part of a project by YBI Foundation as part of an Artificial Intelligence and Machine Learning Internship. The notebook demonstrates how to build a recommendation system using collaborative filtering techniques on a movie dataset.
+This repository contains the `MovieRecommendation.ipynb` notebook, which is part of a project by [YBI Foundation](https://github.com/YBI-Foundation) as part of an Artificial Intelligence and Machine Learning Internship. The notebook demonstrates how to build a recommendation system using collaborative filtering techniques on a movie dataset.
 
 ## Table of Contents
 
@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-Thanks to YBI Foundation for the dataset.
+Thanks to [YBI Foundation](https://github.com/YBI-Foundation) for the dataset.
